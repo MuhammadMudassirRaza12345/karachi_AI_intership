@@ -1,0 +1,5 @@
+mysql-connector-python==8.1.0 
+Flask==2.0.1
+Faker==11.3.0
+bcrypt==3.2.0
+
